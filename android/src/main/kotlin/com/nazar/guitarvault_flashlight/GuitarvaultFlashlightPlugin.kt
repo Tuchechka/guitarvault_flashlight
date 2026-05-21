@@ -1,4 +1,4 @@
-package com.example.guitarvault_flashlight
+package com.nazar.guitarvault_flashlight
 
 import android.content.Context
 import android.hardware.camera2.CameraCharacteristics
